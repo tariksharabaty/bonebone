@@ -60,6 +60,12 @@
 3. Install **O Lib** (required core library).
 4. Drop `bonebone-1.1.2-mc26.3.jar` into your `mods` folder.
 
+## 📸 Screenshots · Ekran Görüntüleri
+
+<table>
+<tr><td align="center"><img src=".github/screenshots/screenshot-1.png" width="400" alt="In-game screenshot"></td><td align="center"><img src=".github/screenshots/screenshot-2.png" width="400" alt="In-game screenshot"></td></tr>
+</table>
+
 ---
 
 ## ⬇️ Download
